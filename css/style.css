@@ -236,6 +236,8 @@ h4, h5, h6, .h4, .h5, .h6 {
     align-items: center;
     justify-content: center;
     box-shadow: 0 0 45px rgba(12, 18, 20, .08);
+    border: 2px solid green;
+    border-radius: 10px;
     transition: 0.5s;
 }
 
